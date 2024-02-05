@@ -1,2 +1,2 @@
 # shadow
-Little game engine. Written only to make it's creator happy.
+Little game engine. Written for SUSU diplom

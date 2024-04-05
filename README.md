@@ -17,6 +17,9 @@
 Описание паттерна: https://martalex.gitbooks.io/gameprogrammingpatterns/content/chapter-5/5.2-event-queue.html
 ### Game Loop
 Описание паттерна: https://martalex.gitbooks.io/gameprogrammingpatterns/content/chapter-3/3.2-game-loop.html?q=event
-![Game Loop](https://github.com/Persona99/shadow/blob/main/readme_assets/game_loop.pdf?raw=true)
+
+![Game Loop](https://github.com/Persona99/shadow/blob/main/readme_assets/game_loop_page-0001.jpg)
+
 ### Пример игры
-![Game example](https://github.com/Persona99/shadow/blob/main/readme_assets/game_example.pdf?raw=true)
+
+![Game example](https://github.com/Persona99/shadow/blob/main/readme_assets/game_example_page-0001.jpg)
